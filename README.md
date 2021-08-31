@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jakebloss
 - 👀 I’m interested in ... data analytics for sports, mostly baseball.
-- 🌱 I’m currently learning ... Data Sciences
+- 🌱 I’m currently learning ... Principles of Data Sciences
 - 💞️ I’m looking to collaborate on ... some kind of StatCast project.
 - 📫 How to reach me ... blossj@lafayette.edu
 
